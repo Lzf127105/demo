@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<properties>
 		<org.springframework.version>3.0.6.RELEASE</org.springframework.version>
-		<poi-version>3.8-beta5</poi-version>
+		<poi-version>4.1.1</poi-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
