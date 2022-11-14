@@ -6,7 +6,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<org.springframework.version>3.0.6.RELEASE</org.springframework.version>
+		<org.springframework.version>3.2.18.RELEASE</org.springframework.version>
 		<poi-version>3.8-beta5</poi-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
